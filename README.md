@@ -2,12 +2,15 @@
 
 ## 前言
 
->  基于SpringBoot 2.7.14 + Spring Security 5.7.10 + Jwt + Redis +MybatisPlus + Knife4J等常用技术栈实现的一个框架
+>  基于SpringBoot 2.7.14 + Spring Security 5.7.10 + Jwt + Redis + MybatisPlus + Knife4J等常用技术栈实现的一个框架
 
 项目在开发中，不是最终版本
 
 框架用于日常学习使用，有问题欢迎提出pr/issue
 
+## 简单介绍
+
+项目使用Spring Security + Jwt + Redis 实现登录认证和权限校验
 
 
 ## 项目依赖
