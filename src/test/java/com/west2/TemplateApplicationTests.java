@@ -1,10 +1,10 @@
-package com.west2.springsecuritystudy;
+package com.west2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurityStudyApplicationTests {
+class TemplateApplicationTests {
 
     @Test
     void contextLoads() {

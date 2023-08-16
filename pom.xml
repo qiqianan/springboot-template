@@ -150,26 +150,3 @@
     </build>
 
 </project>
-         ├─main
-         │  ├─java
-         │  │  └─com
-         │  │      └─wp
-         │  │          ├─common
-         │  │          │  └─exception
-         │  │          ├─component
-         │  │          ├─config
-         │  │          ├─controller
-         │  │          ├─dao
-         │  │          ├─domain
-         │  │          │  ├─dto
-         │  │          │  └─vo
-         │  │          ├─security
-         │  │          ├─service
-         │  │          │  └─impl
-         │  │          └─utils
-         │  └─resources
-         └─test
-             └─java
-                 └─com
-                     └─wp
-                         └─springsecuritystudy
